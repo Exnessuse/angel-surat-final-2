@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Disallow: /lovable/
+
+Sitemap: https://quickmantra.online/sitemap.xml
